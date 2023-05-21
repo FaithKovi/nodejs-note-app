@@ -10,6 +10,7 @@ cd nodejs note app/
 
 Run
 ```
+npm install
 node script.js
 ```
 
